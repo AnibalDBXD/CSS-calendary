@@ -36,6 +36,7 @@
   color: white;
   height: 20%;
   font-size: 30px;
+  text-transform: uppercase;
 }
 
 .calendar_body {
